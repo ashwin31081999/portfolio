@@ -11,6 +11,7 @@ CI/CD Tools: Jenkins, GitHub Actions
 Configuration Management: Ansible, Terraform
 Containers: Docker, Kubernetes
 Scripting: Bash, Python
+
 Projects
 1. AWS Infrastructure Automation
 Description: Automated the provisioning of AWS resources using Terraform.
