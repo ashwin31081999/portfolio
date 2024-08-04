@@ -91,7 +91,8 @@ Education
 
      
 
-GITHUB URL:https://github.com/ashwin31081999/projects-and-hands-on-tasks
+GITHUB URL:https://github.com/ashwin31081999/projects-and-hands-on-tasks 
+
    
 
 
@@ -99,13 +100,19 @@ Certifications
 
    . guvi course completion certificate
 
+   
+
 
 
 Contact
 
-    Email: antonyashwin643@gmail.com
+   . Email:antonyashwin643@gmail.com
 
-    phone number: 7339171064
+   . phone number:7339171064
 
+    
+
+
+This portfolio showcases my skills and projects as an AWS DevOps Engineer. Check out my GitHub repositories to see my work in detail.
 
 
