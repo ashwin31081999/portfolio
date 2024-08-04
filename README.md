@@ -1,7 +1,6 @@
 # portfolio
 E.ASHWIN - AWS DevOps Engineer
 
-AWS DevOps Engineer Portfolio
 Welcome to my portfolio! Here, you'll find a collection of my projects, skills, and experiences as an aspiring AWS DevOps Engineer.
 
 
@@ -90,12 +89,16 @@ Education
 
      (March 2015)
 
+     
+
+GITHUB URL:https://github.com/ashwin31081999/projects-and-hands-on-tasks
    
 
 
 Certifications
 
-    guvi course completion certificate
+   . guvi course completion certificate
+
 
 
 Contact
