@@ -98,7 +98,10 @@ GITHUB URL:https://github.com/ashwin31081999/projects-and-hands-on-tasks
 
 Certifications
 
-   . guvi course completion certificate
+   . guvi course completion certificate for Devops program
+
+   
+   URL:https://www.guvi.in/certificate?id=089z872hy2H501fI30&download=true
 
    
 
