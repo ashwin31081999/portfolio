@@ -57,8 +57,8 @@ Projects
 
       Technologies: AWS(VPC, subnets, route table, igw, elastic ip, NAT gateway, ec2, autoscaling group, application  load balancer
 
-      Repository:https://github.com/ashwin31081999/projects-and-hands-on- 
-                       tasks/blob/master/projects/aws%20resources%20project%20by%20managment%20consoule/aws%20project.pdf
+      Repository:https:https://github.com/ashwin31081999/projects-and-hands-on-tasks/tree/master/projects/aws%20resources%20project%20by%20managment%20consoule 
+                       
 
 capstone project
 
