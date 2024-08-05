@@ -6,7 +6,7 @@ Welcome to my portfolio! Here, you'll find a collection of my projects, skills, 
 
 About Me
 
-I am a recent graduate passionate about cloud computing, automation, and DevOps practices. I have hands-on experience with AWS services, CI/CD pipelines, and infrastructure as code.
+I am a recent graduate passionate about cloud computing, automation, and DevOps practices. I have hands-on experience with AWS services, CI/CD pipelines, infrastructure as code, containerization platform,  Version Control system tools.
 
 
 Skills:
